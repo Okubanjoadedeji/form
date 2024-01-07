@@ -16,12 +16,12 @@ body{
   position: absolute;
   top: 0;
   left: 0;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .container {
-  position: absolute;
-  right: 100px;
-  margin: 20px;
+  margin: 100px  auto  0px;
   max-width: 300px;
   padding: 16px;
   background-color: white;
